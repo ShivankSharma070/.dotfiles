@@ -1,0 +1,68 @@
+[2021-07-24 18:12:27.465] [exthost] [info] extension host started
+[2021-07-24 18:12:27.465] [exthost] [info] Skipping acquiring lock for /home/shivank/.config/Code/User/workspaceStorage/d4d6a073337e6a1c28dff76c72099401.
+[2021-07-24 18:12:27.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-24 18:12:27.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-24 18:12:27.666] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:cpp"}
+[2021-07-24 18:12:27.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/.vscode/extensions/ms-vscode.cpptools-1.5.1/dist/main
+[2021-07-24 18:12:28.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-24 18:12:28.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-24 18:12:28.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-24 18:12:28.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2021-07-24 18:12:28.857] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2021-07-24 18:12:28.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/.vscode/extensions/tabnine.tabnine-vscode-3.4.17/out/extension
+[2021-07-24 18:12:29.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:12:29.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-24 18:12:29.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:12:29.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-24 18:12:29.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:12:29.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-24 18:12:30.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-24 18:12:30.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2021-07-24 18:12:30.287] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-24 18:12:30.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-24 18:12:30.805] [exthost] [info] eager extensions activated
+[2021-07-24 18:12:30.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:12:30.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-24 18:12:30.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:12:30.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-24 18:12:31.007] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:12:31.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-24 18:12:31.015] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:12:31.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-07-24 18:12:31.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-24 18:12:31.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-24 18:14:26.998] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-24 18:14:28.026] [exthost] [info] exiting with code 0
+[2021-07-24 18:14:31.193] [exthost] [info] extension host started
+[2021-07-24 18:14:31.193] [exthost] [info] Skipping acquiring lock for /home/shivank/.config/Code/User/workspaceStorage/d4d6a073337e6a1c28dff76c72099401.
+[2021-07-24 18:14:31.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-24 18:14:31.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-24 18:14:31.324] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:cpp"}
+[2021-07-24 18:14:31.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/.vscode/extensions/ms-vscode.cpptools-1.5.1/dist/main
+[2021-07-24 18:14:31.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-24 18:14:31.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-24 18:14:31.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-24 18:14:31.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2021-07-24 18:14:31.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-24 18:14:31.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2021-07-24 18:14:32.178] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-24 18:14:32.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-24 18:14:32.728] [exthost] [info] eager extensions activated
+[2021-07-24 18:14:32.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-24 18:14:32.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-24 18:14:32.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:14:32.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-24 18:14:32.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:14:32.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-24 18:14:32.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:14:32.959] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-24 18:14:32.973] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-07-24 18:14:32.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-07-24 18:15:28.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:15:28.916] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-24 18:15:29.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:15:29.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-24 18:15:29.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-24 18:15:29.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shivank/Documents/VSCode-linux-x64/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-24 19:39:49.237] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-24 19:39:50.251] [exthost] [info] exiting with code 0

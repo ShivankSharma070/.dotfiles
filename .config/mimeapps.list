@@ -1,0 +1,10 @@
+[Default Applications]
+image/jpeg=sxiv.desktop
+image/png=sxiv.desktop
+application/pdf=epdfview.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+image/jpeg=sxiv.desktop;
+image/png=sxiv.desktop;
+application/pdf=org.pwmt.zathura.desktop;brave_brave.desktop;libreoffice-draw.desktop;epdfview.desktop;

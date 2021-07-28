@@ -1,0 +1,11 @@
+[2021-07-20 17:56:51.196] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2021-07-20 17:56:51.326] [main] [info] update#setState idle
+[2021-07-20 17:56:55.959] [main] [error] [uncaught exception in main]: Error: SharedProcess: crashed (detail: clean-exit, code: 1)
+[2021-07-20 17:56:55.959] [main] [error] Error: SharedProcess: crashed (detail: clean-exit, code: 1)
+    at /home/shivank/Documents/VSCode-linux-x64/resources/app/out/vs/code/electron-main/main.js:59:69368
+    at P.fire (/home/shivank/Documents/VSCode-linux-x64/resources/app/out/vs/code/electron-main/main.js:16:1726)
+    at /home/shivank/Documents/VSCode-linux-x64/resources/app/out/vs/code/electron-main/main.js:14:48058
+    at P.fire (/home/shivank/Documents/VSCode-linux-x64/resources/app/out/vs/code/electron-main/main.js:16:1726)
+    at Object.<anonymous> (/home/shivank/Documents/VSCode-linux-x64/resources/app/out/vs/code/electron-main/main.js:58:9492)
+    at Object.emit (events.js:327:22)
+[2021-07-20 17:56:55.964] [main] [error] CodeWindow: renderer process crashed (reason: clean-exit, code: 1)

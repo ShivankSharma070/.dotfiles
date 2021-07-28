@@ -1,0 +1,11 @@
+[2021-07-27 12:44:45.648] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-07-27 12:44:49.781] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-27 12:44:49.783] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210720T164355'
+[2021-07-27 12:44:53.371] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /home/shivank/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-dependency-0.18.6
+[2021-07-27 12:44:53.478] [sharedprocess] [info] Extracted extension to /home/shivank/.vscode/extensions/.8efc4db3-1fb2-44eb-9247-f39267e06096: vscjava.vscode-java-dependency
+[2021-07-27 12:44:53.626] [sharedprocess] [info] Renamed to /home/shivank/.vscode/extensions/vscjava.vscode-java-dependency-0.18.6
+[2021-07-27 12:44:53.630] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2021-07-27 12:44:53.895] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2021-07-27 12:45:09.784] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-27 12:45:09.785] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-27 12:45:19.789] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

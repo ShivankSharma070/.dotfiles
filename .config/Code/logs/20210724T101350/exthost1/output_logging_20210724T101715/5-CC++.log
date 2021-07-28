@@ -1,0 +1,6 @@
+Updating C/C++ dependencies...
+
+Downloading package 'C/C++ language components (Linux / x86_64)' (10584 KB)  Done!
+Downloading package 'ClangFormat (Linux / x86_64)'  Failed. Retrying...(868 KB)  Done!
+Downloading package 'Mono Framework Assemblies' (5368 KB)  Done!
+Downloading package 'Mono Runtime (Linux / x86_64)'  Failed. Retrying... Failed. Retrying...

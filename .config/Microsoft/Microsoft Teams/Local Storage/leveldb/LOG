@@ -1,0 +1,12 @@
+2021/07/14-08:32:12.603 62d Reusing MANIFEST /home/shivank/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/07/14-08:32:12.884 62d Recovering log #70
+2021/07/14-08:32:12.988 62d Level-0 table #73: started
+2021/07/14-08:32:13.204 62d Level-0 table #73: 98369 bytes OK
+2021/07/14-08:32:13.204 62d Recovering log #72
+2021/07/14-08:32:13.333 62d Level-0 table #74: started
+2021/07/14-08:32:13.495 62d Level-0 table #74: 315468 bytes OK
+2021/07/14-08:32:13.588 62d Delete type=0 #72
+2021/07/14-08:32:13.588 62d Delete type=0 #70
+2021/07/14-08:33:04.202 75b Level-0 table #77: started
+2021/07/14-08:33:04.242 75b Level-0 table #77: 48779 bytes OK
+2021/07/14-08:33:04.281 75b Delete type=0 #75

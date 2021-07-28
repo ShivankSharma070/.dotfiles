@@ -1,0 +1,18 @@
+[2021-07-24 10:14:05.433] [sharedprocess] [info] Deleted from disk sudhan.neondark-theme /home/shivank/.vscode/extensions/sudhan.neondark-theme-1.1.1
+[2021-07-24 10:14:11.305] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-24 10:14:11.307] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210717T175109, 20210717T185253'
+[2021-07-24 10:14:31.308] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-24 10:14:31.311] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-24 10:14:41.306] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-24 10:16:56.373] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-07-24 10:17:13.409] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/shivank/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.5.1
+[2021-07-24 10:17:14.151] [sharedprocess] [info] Extracted extension to /home/shivank/.vscode/extensions/.e075a865-f3ce-40c3-8832-c50b1bf6ae96: ms-vscode.cpptools
+[2021-07-24 10:17:14.214] [sharedprocess] [info] Renamed to /home/shivank/.vscode/extensions/ms-vscode.cpptools-1.5.1
+[2021-07-24 10:17:14.219] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-07-24 10:17:14.274] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-07-24 10:19:02.939] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-07-24 10:19:06.610] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/shivank/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.5
+[2021-07-24 10:19:06.889] [sharedprocess] [info] Extracted extension to /home/shivank/.vscode/extensions/.d64d84b7-0251-4802-941b-7342c5d627cb: formulahendry.code-runner
+[2021-07-24 10:19:06.956] [sharedprocess] [info] Renamed to /home/shivank/.vscode/extensions/formulahendry.code-runner-0.11.5
+[2021-07-24 10:19:06.958] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2021-07-24 10:19:07.006] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner

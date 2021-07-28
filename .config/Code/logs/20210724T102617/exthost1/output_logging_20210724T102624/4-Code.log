@@ -1,0 +1,26 @@
+[Running] cd "/home/shivank/Shivank/Programming/C++ Course/" && g++ 1_main.cpp -o 1_main && "/home/shivank/Shivank/Programming/C++ Course/"1_main
+1_main.cpp: In function ‘int main()’:
+1_main.cpp:5:13: error: expected ‘;’ before ‘}’ token
+    5 |     return 0
+      |             ^
+      |             ;
+    6 | }
+      | ~            
+
+[Done] exited with code=1 in 1.086 seconds
+
+[Running] cd "/home/shivank/Shivank/Programming/C++ Course/" && g++ 1_main.cpp -o 1_main && "/home/shivank/Shivank/Programming/C++ Course/"1_main
+1_main.cpp: In function ‘int main()’:
+1_main.cpp:5:13: error: expected ‘;’ before ‘}’ token
+    5 |     return 0
+      |             ^
+      |             ;
+    6 | }
+      | ~            
+
+[Done] exited with code=1 in 0.594 seconds
+
+[Running] cd "/home/shivank/Shivank/Programming/C++ Course/" && g++ 1_main.cpp -o 1_main && "/home/shivank/Shivank/Programming/C++ Course/"1_main
+Hello world
+[Done] exited with code=0 in 1.501 seconds
+
